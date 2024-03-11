@@ -1,0 +1,15 @@
+import logo from './Zaraa_logo.png';
+import hero from './hero.png';
+import women from './WomenCategory.jpg';
+import men from './MenCategory.jpg';
+import kid from './KidCategory.jpg';
+import deal1 from './deal1.jpg';
+import deal2 from './deal2.jpg';
+import deal3 from './deal3.jpg';
+import deal4 from './deal4.jpg';
+import deal5 from './deal5.jpg';
+import deal6 from './deal6.jpg';
+import pep1 from './people01.png';
+import pep2 from './people02.png';
+import pep3 from './people03.png';
+export {logo,hero,women,kid,men,deal1,deal2,deal3,deal4,deal5,deal6,pep1,pep2,pep3};

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.sidebar{
+    animation: mymove 0.75s;
+}
+@keyframes mymove {
+    0%   {transform : translateX(100px);}
+    100% {transform : translateX(0px);}
+  }
+
+.title{
+    position: absolute;
+    top:625px;
+    left:170px;
+}
